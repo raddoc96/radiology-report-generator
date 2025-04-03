@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you use one, e.g., venv, .venv)
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+IGNORE_WHEN_COPYING_START
+content_copy
+download
+Use code with caution.
+Gitignore
+IGNORE_WHEN_COPYING_END
